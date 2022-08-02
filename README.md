@@ -1,6 +1,6 @@
 # LXDAO Develop Guide
 
-This document introduces the tech stacks, branch styles, development workflow, and code styles in LXDAO.
+This document introduces the tech stacks, branch styles, development workflow, and code styles in LXDAO. The topic on forum is: <https://forum.lxdao.io/t/lxdao-develop-guide-is-out/94>.
 
 ## Tech stacks
 
@@ -64,9 +64,9 @@ Try to use as simple as possible tech stacks to finish the project, DO NOT intro
 - Submit a PR from `develop` to `main`, ask someone to do code review and approve your PR
 - After merging into `main`, will deploy your code to production
 
-## Code Styles
+### Code Styles
 
-We use [Prettier](https://prettier.io/) for code formatting. Please install the Prettier plugin and create the following configuration in your project:
+We follow loose version of [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/react/). Pretty much the default config from [Prettier](https://prettier.io/). Please install the Prettier plugin and create the following configuration in your project:
 
 ```
 {
@@ -77,6 +77,15 @@ We use [Prettier](https://prettier.io/) for code formatting. Please install the 
 
 TODO add more details
 
+### Commit Message Styles
+
+We follow loose version of [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). In short:
+
+- `feat: ` for features and most of the changes
+- `chore: ` for trivial changes, like code formatting
+- `fix: ` for bugfixes
+- `docs: ` for updating documents
+
 ## Music when coding 😁
 
 - [The Midnight](https://www.youtube.com/channel/UC-sM_PLqzgktdUcW2LEKKkQ)
@@ -85,3 +94,4 @@ TODO add more details
 
 - [How to contribute React](https://reactjs.org/docs/how-to-contribute.html)
 - [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/react/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
