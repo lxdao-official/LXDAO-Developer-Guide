@@ -81,10 +81,10 @@ TODO add more details
 
 We follow loose version of [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). In short:
 
-- `feat: ` for features and most of the changes
-- `chore: ` for trivial changes, like code formatting
-- `fix: ` for bugfixes
-- `docs: ` for updating documents
+- `feat:` for features and most of the changes
+- `chore:` for trivial changes, like code formatting
+- `fix:` for bugfixes
+- `docs:` for updating documents
 
 ## Music when coding 😁
 
