@@ -35,6 +35,7 @@ Try to use as simple as possible tech stacks to finish the project, DO NOT intro
 ### Others
 
 - Prettier for code format
+- ESLint for code linting
 - GitHub Actions for CICD
 - VSCode
 
@@ -54,11 +55,12 @@ Try to use as simple as possible tech stacks to finish the project, DO NOT intro
 - `main` for `Production` environment, the code in this branch reflects the latest production application, protected by default
 - `develop` for `DEV` or `SIT` environment, latest version of code
 - `feature/[feature-name]` for specific changes
+- `fix/[defect-name]` for bugfix
 
 ### Development workflow
 
 - Create or get a ticket on the Project Management tool ([ClickUp](https://clickup.com/))
-- Checkout a branch from `develop` for the change, the branch name should follow the pattern `feature/[feature-name]`
+- Checkout a branch from `develop` for the change, the branch name should follow the pattern: `feature/[feature-name]`, `fix/[defect-name]`
 - Coding on your local machine
 - Submit a PR to the `develop` branch, verify and test on the `DEV` environment
 - Submit a PR from `develop` to `main`, ask someone to do code review and approve your PR
