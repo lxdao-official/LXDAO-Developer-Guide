@@ -1,4 +1,4 @@
-# LXDAO Develop Guide
+# LXDAO Developer Guide
 
 This document introduces the tech stacks, branch styles, development workflow, and code styles in LXDAO. The topic on forum is: <https://forum.lxdao.io/t/lxdao-develop-guide-is-out/94>.
 
