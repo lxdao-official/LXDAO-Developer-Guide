@@ -18,6 +18,7 @@ Try to use as simple as possible tech stacks to finish the project, DO NOT intro
 - React.js Ecosystem
 - [MUI](https://mui.com/) for UI components
 - Next.js
+- [RainbowKit](https://www.rainbowkit.com/) for connecting wallet
 
 ### BackEnd
 
