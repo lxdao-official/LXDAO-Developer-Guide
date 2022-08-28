@@ -89,6 +89,29 @@ We follow loose version of [Conventional Commits](https://www.conventionalcommit
 - `fix:` for bugfixes
 - `docs:` for updating documents
 
+## Add LXDAO information in README.md, Website, etc.
+
+As a part of LXDAO, the project buidl in LXDAO or buidl with LXDAO should show some information about LXDAO.
+
+For example, add the following information at the bottom of the README.md file.
+
+Please replace the TODO to correct link to your project.
+
+```
+## What is LXDAO?
+
+LXDAO is an R&D-focused DAO in Web3. Our mission is to bring together buidlers to buidl and maintain valuable projects for Web3, in a sustainable manner. More links:
+
+- LXDAO Website: <https://lxdao.io/>
+- LXDAO Project Details: <https://lxdao.io/TODO_YOUR_PROJECT_LINK>
+- LXDAO Forum: <https://forum.lxdao.io/c/projects/TODO_YOUR_PROJECT_LINK>
+- LXDAO Discord: <https://discord.lxdao.io>
+- LXDAO Twitter: <https://twitter.com/LXDAO_Official>
+- LXDAO Telegram: <https://t.me/LXDAO>
+
+<a target="_blank" href="https://lxdao.io/"><img alt="Buidl in LXDAO" src="https://raw.githubusercontent.com/lxdao-official/LXDAO-Developer-Guide/main/buildinlxdao.png" width="180" /></a>
+```
+
 ## Music when coding 😁
 
 - [The Midnight](https://www.youtube.com/channel/UC-sM_PLqzgktdUcW2LEKKkQ)
