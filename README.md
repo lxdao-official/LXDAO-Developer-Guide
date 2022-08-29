@@ -39,6 +39,7 @@ Try to use as simple as possible tech stacks to finish the project, DO NOT intro
 - ESLint for code linting
 - GitHub Actions for CICD
 - VSCode
+- [Writing guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ## Development
 
