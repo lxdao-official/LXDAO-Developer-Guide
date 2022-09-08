@@ -40,6 +40,7 @@ Try to use as simple as possible tech stacks to finish the project, DO NOT intro
 - GitHub Actions for CICD
 - VSCode
 - [Writing guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [DappReader](https://DappReader.com) Debugging Smart Contracts as easy as using the Postman
 
 ## Development
 
