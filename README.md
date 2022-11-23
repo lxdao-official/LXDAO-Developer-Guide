@@ -102,14 +102,9 @@ Please replace the TODO to correct link to your project.
 ```
 ## What is LXDAO?
 
-LXDAO is an R&D-focused DAO in Web3. Our mission is to bring together buidlers to buidl and maintain valuable projects for Web3, in a sustainable manner. More links:
+LXDAO is an R&D-focused DAO in Web3. Our mission is to bring together buidlers to buidl and maintain valuable projects for Web3, in a sustainable manner. More links: [LXDAO Website](https://lxdao.io/), [LXDAO Twitter](https://twitter.com/LXDAO_Official), [LXDAO Discord](https://discord.lxdao.io), [LXDAO Project Details](https://lxdao.io/TODO_YOUR_PROJECT_LINK), and [LXDAO Forum](https://forum.lxdao.io/c/projects/TODO_YOUR_PROJECT_LINK).
 
-- LXDAO Website: <https://lxdao.io/>
-- LXDAO Project Details: <https://lxdao.io/TODO_YOUR_PROJECT_LINK>
-- LXDAO Forum: <https://forum.lxdao.io/c/projects/TODO_YOUR_PROJECT_LINK>
-- LXDAO Discord: <https://discord.lxdao.io>
-- LXDAO Twitter: <https://twitter.com/LXDAO_Official>
-- LXDAO Telegram: <https://t.me/LXDAO>
+[![Join our Discord server!](https://invidget.switchblade.xyz/HtcDdPgJ7D)](http://discord.gg/HtcDdPgJ7D)
 
 <a target="_blank" href="https://lxdao.io/"><img alt="Buidl in LXDAO" src="https://raw.githubusercontent.com/lxdao-official/LXDAO-Developer-Guide/main/buildinlxdao.png" width="180" /></a>
 ```
