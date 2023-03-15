@@ -97,16 +97,16 @@ As a part of LXDAO, the project buidl in LXDAO or buidl with LXDAO should show s
 
 For example, add the following information at the bottom of the README.md file.
 
-Please replace the TODO to correct link to your project.
-
 ```
-## What is LXDAO?
+## Supported by LXDAO
 
-LXDAO is an R&D-focused DAO in Web3. Our mission is to bring together buidlers to buidl and maintain valuable projects for Web3, in a sustainable manner. More links: [LXDAO Website](https://lxdao.io/), [LXDAO Twitter](https://twitter.com/LXDAO_Official), [LXDAO Discord](https://discord.lxdao.io), [LXDAO Project Details](https://lxdao.io/TODO_YOUR_PROJECT_LINK), and [LXDAO Forum](https://forum.lxdao.io/c/projects/TODO_YOUR_PROJECT_LINK).
+<a target="_blank" href="https://lxdao.io/"><img alt="Supported by LXDAO" src="https://bafkreib7wsfivsbtinvx7yfou2b556ab32pojbjutkxfhh7v3y45qkevui.ipfs.nftstorage.link/" width="180" /></a>
+
+This is a project supported by LXDAO. More links: [LXDAO](https://lxdao.io/) | [LXDAO Forum](https://forum.lxdao.io/) | [LXDAO Discord](https://discord.lxdao.io) | [LXDAO Twitter](https://twitter.com/LXDAO_Official).
+
+LXDAO is an R&D-focused DAO in Web3. Our mission is: Gather the power of buidlers to buidl and support “LX” (valuable) Web3 projects sustainably and welcome 1 billion users into Web3. Welcome to join us.
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/HtcDdPgJ7D)](http://discord.gg/HtcDdPgJ7D)
-
-<a target="_blank" href="https://lxdao.io/"><img alt="Buidl in LXDAO" src="https://raw.githubusercontent.com/lxdao-official/LXDAO-Developer-Guide/main/buildinlxdao.png" width="180" /></a>
 ```
 
 ## Music when coding 😁
