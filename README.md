@@ -25,6 +25,7 @@ Try to use as simple as possible tech stacks to finish the project, DO NOT intro
 - Nest.js for APIs
 - Redis for cache
 - PostgreSQL + [Prisma](https://www.prisma.io/) for ORM
+- Nest.js swagger for APIs test
 
 ### SaaS and Cloud Services
 
