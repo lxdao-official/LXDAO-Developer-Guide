@@ -27,6 +27,7 @@ Keep the stack simple. Avoid introducing unnecessary tools or libraries.
 - **[TanStack Query](https://tanstack.com/query/latest)**: Data fetching and state management.
 - **[RainbowKit](https://www.rainbowkit.com/)**: Wallet connection.
 - **[wagmi](https://wagmi.sh/)** + **[viem](https://viem.sh/)**: The professional standard for Ethereum interactions. Use `wagmi` for React Hooks and `viem` for low-level type-safe interfaces.
+- **[Thegraph](https://thegraph.com/)**: For blockchain data
 
 ### Backend
 
