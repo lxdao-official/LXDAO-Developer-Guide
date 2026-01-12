@@ -16,9 +16,10 @@ Try to use as simple as possible tech stacks to finish the project, DO NOT intro
 ### FrontEnd
 
 - React.js Ecosystem
+- [Next.js](https://nextjs.org/)
 - [MUI](https://mui.com/) for UI components
-- Next.js
 - [RainbowKit](https://www.rainbowkit.com/) for connecting wallet
+- [Wagmi](https://wagmi.sh/) for Ethereum hooks
 
 ### BackEnd
 
@@ -26,6 +27,7 @@ Try to use as simple as possible tech stacks to finish the project, DO NOT intro
 - Redis for cache
 - PostgreSQL + [Prisma](https://www.prisma.io/) for ORM
 - Nest.js swagger for APIs test
+- [Thegraph](https://thegraph.com/) for blockchain data
 
 ### SaaS and Cloud Services
 
